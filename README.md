@@ -1,6 +1,6 @@
 # Book Library
 
-An assignment from Nagad. This is a smaple book library application where a user can login and borrow the books by the conditions. And can return the books to library.
+This is a smaple book library application where a user can login and borrow the books by the conditions. And can return the books to library.
 
 ## Technologies
 Project is created with:

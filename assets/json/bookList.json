@@ -1,0 +1,57 @@
+[
+   {
+      "BOOKID":1,
+      "BOOK_NAME":"গল্পগুলো অন্যরকম",
+      "BOOK_QTY":3
+   },
+   {
+      "BOOKID":2,
+      "BOOK_NAME":"ইচ্ছা পূরণ",
+      "BOOK_QTY":29
+   },
+   {
+      "BOOKID":3,
+      "BOOK_NAME":"ছোটদের সেরা গল্প",
+      "BOOK_QTY":20
+   },
+   {
+      "BOOKID":3,
+      "BOOK_NAME":"বাঙ্গালীর হাসির গল্প ২",
+      "BOOK_QTY":7
+   },
+   {
+      "BOOKID":4,
+      "BOOK_NAME":"মধ্যবিত্ত",
+      "BOOK_QTY":1
+   },
+   {
+      "BOOKID":5,
+      "BOOK_NAME":"গল্প সমগ্র",
+      "BOOK_QTY":1
+   },
+   {
+      "BOOKID":6,
+      "BOOK_NAME":"মেঘ রোদ্দুর বৃষ্টি",
+      "BOOK_QTY":6
+   },
+   {
+      "BOOKID":7,
+      "BOOK_NAME":"জঙ্গলের কাহিনী",
+      "BOOK_QTY":5
+   },
+   {
+      "BOOKID":8,
+      "BOOK_NAME":"শেয়াল ও বিড়াল",
+      "BOOK_QTY":10
+   },
+   {
+      "BOOKID":9,
+      "BOOK_NAME":"শিশুকাহিনী",
+      "BOOK_QTY":13
+   },
+   {
+      "BOOKID":10,
+      "BOOK_NAME":"শ্রেষ্ঠ গল্প",
+      "BOOK_QTY":5
+   }
+]
